@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble address of the Lord Mayor, Alderman, and Commons of the city of London in Common Council assembled at a common council held the 13th day of March, 1682, upon a petition presented by the inhabitants in and about Smithfield, taking notice that His Majesty (upon application from the Court of Aldermen in behalf of this city), has been pirased to order a stop to an intended patent for a market near Albermarle House, which (had it been passed) would greatly have reduced to the cities prejudice,... a committee was appointed immediately to withdraw and prepare an address to be presented to His Majesty from that court, who were Sir William Turner, Sir James Edwards, Sir John Moore, Aldermen; Sir Benjamin Newland, Deputy Ayleworth, Deputy Hawes, Deputy Langham, Mr. Charleton, Mr. Vernon, Commoners, with Mr. Cornman Serjeant ... and ordered to be forthwith presented to His Majesty at Newmarket by the same committee who had prepared it, the tenor whereof is as followeth.</title>
+            <author>Pritchard, William, Sir, 1632?-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44963</idno>
+            <idno type="STC">Wing H3381</idno>
+            <idno type="STC">ESTC R20917</idno>
+            <idno type="EEBO-CITATION">12680604</idno>
+            <idno type="OCLC">ocm 12680604</idno>
+            <idno type="VID">65644</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44963)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65644)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 816:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble address of the Lord Mayor, Alderman, and Commons of the city of London in Common Council assembled at a common council held the 13th day of March, 1682, upon a petition presented by the inhabitants in and about Smithfield, taking notice that His Majesty (upon application from the Court of Aldermen in behalf of this city), has been pirased to order a stop to an intended patent for a market near Albermarle House, which (had it been passed) would greatly have reduced to the cities prejudice,... a committee was appointed immediately to withdraw and prepare an address to be presented to His Majesty from that court, who were Sir William Turner, Sir James Edwards, Sir John Moore, Aldermen; Sir Benjamin Newland, Deputy Ayleworth, Deputy Hawes, Deputy Langham, Mr. Charleton, Mr. Vernon, Commoners, with Mr. Cornman Serjeant ... and ordered to be forthwith presented to His Majesty at Newmarket by the same committee who had prepared it, the tenor whereof is as followeth.</title>
+                  <author>Pritchard, William, Sir, 1632?-1705.</author>
+                  <author>City of London (England). Lord Mayor.</author>
+                  <author>City of London (England). Court of Aldermen.</author>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Roycroft ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>William Pritchard was Lord Mayor of London in 1682.</note>
+                  <note>Caption title.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Markets --  Social aspects --  England --  London --  Early works to 1800.</term>
+               <term>Markets --  Law and legislation --  England --  London --  Sources.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:65644:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>blazon of the City of London</figDesc>
+               </figure> 
+               <figure>
+                  <figDesc>blazon of the City of London</figDesc>
+               </figure>
+            </head>
+            <head>The Humble ADDRESS OF THE Lord Mayor, Aldermen, and Commons of the City of <hi>London</hi> in Common Council Aſſembled.</head>
+            <argument>
+               <p>At a Common Council held the 13th day of <hi>March, 1682.</hi> Upon a Petition preſented by the Inhabitants in and a<g ref="char:EOLhyphen"/>bout <hi>Smithfield,</hi> taking notice that his Majesty (upon Application from the Court of Aldermen in behalf of this City) had been pleaſed to order a ſtop to an in<g ref="char:EOLhyphen"/>tended Patent for a Market near <hi>Albemarle-Houſe,</hi> which (if it had paſſed) would greatly have re<g ref="char:EOLhyphen"/>dounded to the Cities prejudice; And upon Conſiderati<g ref="char:EOLhyphen"/>on had of his Majeſties Grace and Favour therein vouchſafed to this his City, a Committee was appointed immediately to withdraw and prepare an Addreſs to be preſented to his Majeſty from that Court, who were Sir <hi>William Turner,</hi> Sir <hi>James Edwards,</hi> Sir <hi>John Moore,</hi> Aldermen; Sir <hi>Benjamin Newland,</hi> Deputy <hi>Ayleworth,</hi> Deputy <hi>Hawes,</hi> Deputy <hi>Langham,</hi> Mr. <hi>Charleton,</hi> Mr. <hi>Vernon,</hi> Commoners, with Mr. <hi>Common Serjeant,</hi> who withdrawing and having prepared an Addreſs, accordingly brought in the ſame to the Com<g ref="char:EOLhyphen"/>mon Council; which being there read was unanimouſly approved of, and ordered to be forthwith preſented to his Majesty at <hi>Newmarket</hi> by the ſame Committee who had prepared it: The Tenor whereof is as followeth;</p>
+            </argument>
+            <head>To the Kings moſt Excellent Majeſty.</head>
+            <opener>
+               <salute>May it pleaſe your Sacred Majeſty,</salute>
+            </opener>
+            <p>WE the <hi>Mayor, Aldermen,</hi> and <hi>Commons</hi> of Your City of <hi>LONDON</hi> in Common Council Aſſembled, being highly ſenſible of the Happineſs
+<pb facs="tcp:65644:2"/>
+We enjoy under Your MAJESTY's moſt Wiſe, Benign, and Merciful Government, and of the many Priviledges and Immunities by Your ROYAL Self and Progenitors granted to this Your Imperial <hi>Cham<g ref="char:EOLhyphen"/>ber,</hi> Moſt humbly Proſtrating Our ſelves at Your Feet, Return Our unfeigned Thanks and Acknowledg<g ref="char:EOLhyphen"/>ments, Begging Your Sacred MAJESTY to believe, That as none of Our Fellow Subjects have received Larger Bounties from the Crown, ſo none ſhall be more ready to ſacrifice their Lives and Fortunes in the Service thereof, in the Defence of Your Sacred Perſon (whom God long Preſerve) Your Lawful Heirs and Succeſſors, and the Government as now by Law Eſtabliſhed in Church and State, than We Your Obe<g ref="char:EOLhyphen"/>dient and Dutiful Subjects of Your Loyal City of <hi>London:</hi> And as We have lately Received an Expreſſion of Your ROYAL Grace and Favour to Us, in Your MAJESTY's being pleaſed to Order a Stop to be put (until farther Hearing) to a Patent for the Grant of a Fair and Weekly-Market for Live Cattel in <hi>Conduit-Mead,</hi> which would be greatly Prejudicial to the In<g ref="char:EOLhyphen"/>habitants in and about <hi>Smithfield,</hi> Your Hoſpital of St. <hi>Bartholomews,</hi> and Your City of <hi>LONDON</hi> in General; ſo we could do no leſs than humbly Re<g ref="char:EOLhyphen"/>turning Our Thanks, Implore Your Continuance of Your ROYAL Grace and Favour. And</p>
+            <closer>Your Petitioners ſhall ever Pray, &amp;c.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Samuel Roycroft,</hi> Printer to this Honourable City, 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
